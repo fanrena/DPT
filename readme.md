@@ -1,5 +1,7 @@
 # This is the code for 《Dual Modality Prompt Tuning for Vision-Language Pre-Trained Model》.
 
+[arxiv](https://arxiv.org/abs/2208.08340)
+
 ## How to install.
 
 Please follow CoOp offical code installation guidence.
