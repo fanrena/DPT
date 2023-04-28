@@ -1,4 +1,5 @@
-# 《Dual Modality Prompt Tuning for Vision-Language Pre-Trained Model》.
+# Dual Modality Prompt Tuning for Vision-Language Pre-Trained Model
+Yinghui Xing, Qirui Wu, De Cheng, Shizhou Zhang, Guoqiang Liang, Peng Wang, Yanning Zhang.
 
 [arxiv](https://arxiv.org/abs/2208.08340)
 
