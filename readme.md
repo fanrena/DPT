@@ -1,12 +1,12 @@
 # Dual Modality Prompt Tuning for Vision-Language Pre-Trained Model
 Yinghui Xing, Qirui Wu, De Cheng, Shizhou Zhang, Guoqiang Liang, Peng Wang, Yanning Zhang.
 
-[Arxiv](https://arxiv.org/abs/2208.08340)  
-[TMM](https://ieeexplore.ieee.org/abstract/document/10171397)
+[Arxiv](https://arxiv.org/abs/2208.08340)   
+[TMM](https://ieeexplore.ieee.org/abstract/document/10171397)   
 *There is no difference between these two editions but only in Typesetting*.
 
 ## Overall Architecture
-![pic](./image/architecture.png)
+![pic](./image/DPTArchitecture.png)
 
 ## How to install.
 
