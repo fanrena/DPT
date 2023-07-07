@@ -1,7 +1,9 @@
 # Dual Modality Prompt Tuning for Vision-Language Pre-Trained Model
 Yinghui Xing, Qirui Wu, De Cheng, Shizhou Zhang, Guoqiang Liang, Peng Wang, Yanning Zhang.
 
-[arxiv](https://arxiv.org/abs/2208.08340)
+[arxiv](https://arxiv.org/abs/2208.08340)  
+[TMM](https://ieeexplore.ieee.org/abstract/document/10171397)
+
 
 ## Overall Architecture
 ![pic](./image/architecture.png)
@@ -20,10 +22,13 @@ If our code didn\`t run properly. Please install CoOp offical code and place our
 ## Citation
 If you find our code useful, please give us a citation.
 ```bash
-@article{xing2022class,
-  title={Class-aware visual prompt tuning for vision-language pre-trained model},
-  author={Xing, Yinghui and Wu, Qirui and Cheng, De and Zhang, Shizhou and Liang, Guoqiang and Zhang, Yanning},
-  journal={arXiv preprint arXiv:2208.08340},
-  year={2022}
-}
+@ARTICLE{10171397,
+  author={Xing, Yinghui and Wu, Qirui and Cheng, De and Zhang, Shizhou and Liang, Guoqiang and Wang, Peng and Zhang., Yanning},
+  journal={IEEE Transactions on Multimedia}, 
+  title={Dual Modality Prompt Tuning for Vision-Language Pre-Trained Model}, 
+  year={2023},
+  volume={},
+  number={},
+  pages={1-13},
+  doi={10.1109/TMM.2023.3291588}}
 ```
