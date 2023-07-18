@@ -20,7 +20,7 @@ There are four methods(CoOp, VPT, VLP, DPT).
 If our code didn\`t run properly. Please install CoOp official code and place our `trainers`, `train.py`, and `train_single.sh` into the same dir where CoOp is installed. 
 
 ## Citation
-If you find our code useful, please give us a citation.
+If you find our code or paper useful, please give us a citation.
 ```bash
 @ARTICLE{10171397,
   author={Xing, Yinghui and Wu, Qirui and Cheng, De and Zhang, Shizhou and Liang, Guoqiang and Wang, Peng and Zhang., Yanning},
